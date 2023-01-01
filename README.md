@@ -113,4 +113,4 @@ Run the cell. If the installation is fine, there shouldn't be any errors.
 
 # Contact
 
-If any questions, please contact us at m.coffey@stud.uis.no or nestor.cardozo@uis.no
+If any questions, please contact me at [nestor.cardozo@uis.no](mailto:nestor.cardozo@uis.no)
