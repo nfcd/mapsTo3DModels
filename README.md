@@ -41,11 +41,13 @@ pip install gemgis
 
 conda install gdal
 
+### Install jupyter notebook
+
+conda install jupyter
+
 # Check the installation
 
 ### Launch Jupyter Notebook 
-
-conda activate geomaps
 
 jupyter notebook
 
