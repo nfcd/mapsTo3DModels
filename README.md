@@ -41,13 +41,15 @@ pip install gemgis
 
 conda install gdal
 
-## Check the installation
+# Check the installation
 
 ### Launch Jupyter Notebook 
 
+conda activate geomaps
+
 jupyter notebook
 
-## Create a new notebook and enter in a cell:
+### Create a new notebook and in a code cell write these lines:
 
 import rasterio
 
@@ -57,7 +59,7 @@ import gempy as gp
 
 import gemgis as gg
 
-## Run the cell 
+### Run the cell 
 
 There shouldn't be any errors.
 
