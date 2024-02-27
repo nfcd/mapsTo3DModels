@@ -41,7 +41,7 @@ pip install gemgis
 
 conda install gdal
 
-### Install jupyter notebook
+### Install Jupyter Notebook
 
 conda install jupyter
 
